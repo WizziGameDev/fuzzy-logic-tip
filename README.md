@@ -65,9 +65,8 @@ Proyek ini menggunakan sistem inferensi fuzzy (**Fuzzy Inference System / FIS**)
 
 1. Buka file `Fuzzy_Tip.ipynb` di Google Colab atau Jupyter Notebook.
 2. Jalankan semua cell untuk melihat:
-   - Visualisasi keanggotaan
-   - Derajat keanggotaan input
+   - Visualisasi keanggotaan dan Derajat keanggotaan input
    - Evaluasi aturan fuzzy
-   - Hasil akhir defuzzifikasi tip
+   - Hasil akhir defuzzifikasi tip sebesar 20%
 
 ---
