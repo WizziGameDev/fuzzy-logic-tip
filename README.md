@@ -56,7 +56,7 @@ Proyek ini menggunakan sistem inferensi fuzzy (**Fuzzy Inference System / FIS**)
 ### Fungsi Keanggotaan Input
 ![Keramahan dan Kecepatan](fuzzy_tip_1.png)
 
-### Hasil Agregasi dan Defuzzifikasi
+### Hasil Defuzzifikasi
 ![FIS Output](fuzzy_tip_2.png)
 
 ---
